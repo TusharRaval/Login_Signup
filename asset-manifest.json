@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TusharRaval/Login_Signup.git/static/css/main.98534079.css",
-    "main.js": "/TusharRaval/Login_Signup.git/static/js/main.89d2f980.js",
-    "static/js/453.ed8f5b40.chunk.js": "/TusharRaval/Login_Signup.git/static/js/453.ed8f5b40.chunk.js",
-    "index.html": "/TusharRaval/Login_Signup.git/index.html",
-    "main.98534079.css.map": "/TusharRaval/Login_Signup.git/static/css/main.98534079.css.map",
-    "main.89d2f980.js.map": "/TusharRaval/Login_Signup.git/static/js/main.89d2f980.js.map",
-    "453.ed8f5b40.chunk.js.map": "/TusharRaval/Login_Signup.git/static/js/453.ed8f5b40.chunk.js.map"
+    "main.css": "/Login_Signup/static/css/main.98534079.css",
+    "main.js": "/Login_Signup/static/js/main.be61ca33.js",
+    "static/js/453.ed8f5b40.chunk.js": "/Login_Signup/static/js/453.ed8f5b40.chunk.js",
+    "index.html": "/Login_Signup/index.html",
+    "main.98534079.css.map": "/Login_Signup/static/css/main.98534079.css.map",
+    "main.be61ca33.js.map": "/Login_Signup/static/js/main.be61ca33.js.map",
+    "453.ed8f5b40.chunk.js.map": "/Login_Signup/static/js/453.ed8f5b40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98534079.css",
-    "static/js/main.89d2f980.js"
+    "static/js/main.be61ca33.js"
   ]
 }
